@@ -6,7 +6,7 @@
 # catalog-version 1.0l
 Name:		texlive-babel-bahasa
 Version:	1.0l
-Release:	3
+Release:	4
 Summary:	Support for Bahasa within babel
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/bahasa
