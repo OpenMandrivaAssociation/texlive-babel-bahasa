@@ -9,7 +9,7 @@ Version:	1.0l
 Release:	11
 Summary:	Support for Bahasa within babel
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/bahasa
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/bahasa
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-bahasa.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-bahasa.doc.tar.xz
